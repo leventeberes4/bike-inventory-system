@@ -1,6 +1,8 @@
-# Fietsenwacht Inventory System
 
-An internal tool for Fietsenwacht, a mobile bike repair company in the Netherlands.  
+_Note: This project was originally developed for a client, but the collaboration has ended. I’m continuing development independently._
+# Bike Inventory System 
+
+An internal tool for a mobile bike repair company in the Netherlands.  
 The application connects mechanics working on the road with the company’s inventory system, allowing fast bill creation for clients and seamless tracking of used parts.
 
 ## 🔧 Purpose
@@ -10,7 +12,7 @@ While they don’t interact with inventory directly, their actions automatically
 
 ## 🧱 Tech Stack
 
-- **Frontend**: React, Redux Toolkit, Tailwind CSS
+- **Frontend**: React, Tailwind CSS
 - **Backend**: Spring Boot
 - **Database**: MongoDB
 - **Other**: RESTful APIs, Docker
